@@ -1,0 +1,6 @@
+[appendix]
+= Glossary
+
+This glossary includes a list of the key terms used in the documents that form the strategy towards technological sovereignty set out in the Digital Barcelona Plan 2017-2020.
+They have been defined using simple but clear vocabulary to ensure that everyone with access to the glossary can understand the meaning and significance of these terms regardless of their level of technical knowledge.
+The goal is to facilitate use and understanding of this guide.
