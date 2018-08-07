@@ -1,5 +1,15 @@
 [appendix]
 = Glossary
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
 
 This glossary includes a list of the key terms used in the documents that form the strategy towards technological sovereignty set out in the Digital Barcelona Plan 2017-2020.
 They have been defined using simple but clear vocabulary to ensure that everyone with access to the glossary can understand the meaning and significance of these terms regardless of their level of technical knowledge.
@@ -268,6 +278,7 @@ The purpose of this practice is to facilitate a better understanding of the need
 These processes are especially recommended when the services to be contracted are particularly complex (and, therefore, so is the solution) or require innovative solutions.
 
 *SOLVENCY CRITERIA*
+
 A set of economic, organisational and technical criteria that accredit the capability of a bidding company and determine its viability for providing a certain product or performing a service.
 
 *TECHNOLOGICAL SOVEREIGNTY*
