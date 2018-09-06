@@ -179,6 +179,10 @@ Generally-speaking, the source code is not available to third parties.
 A type of software that is distributed for free but has a usage licence that prohibits other users from modifying or, in some cases, freely using its code.
 The user has no access to the source code.
 
+*IMI*
+
+The http://ajuntament.barcelona.cat/imi/en[Municipal Institute of Information Technology (IMI)] is a local independent Barcelona City Council body that was set up in 1990 to provide Barcelona City Council and the public companies under its wing with all their Information and Communication Technology Services.
+
 **INDUSTRIAL PROPERTY**footnote:[Patents and models: Law 24/2015, of 24^th^ July, on Patents. Distinctive signs: law 17/2001, of 7^th^ December, on Trademarks. Industrial designs: Law 20/2003, of 7^th^ July, on the Legal protection of industrial design. Topographies of semiconductors: Law 11/1988, of 3^rd^ May, on the Legal protection of topographies of semiconductor products.]
 
 A set of exclusive rights that correspond to one person or entity over an invention or other immaterial creation produced by that person (patents, brands or industrial designs) which may be susceptible to use by third parties.
