@@ -274,8 +274,8 @@ Open standards ::
 
 An open standard is a standard that meets the following conditions:footnote:[Art. 11 RD 4/2010).]
 +
-[loweralpha]
 --
+[loweralpha]
 . It is public and its use is available for free or at a cost that does not prevent accessibility.
 . Its use and application do not depend on the payment for an intellectual or industrial property right.
 --
