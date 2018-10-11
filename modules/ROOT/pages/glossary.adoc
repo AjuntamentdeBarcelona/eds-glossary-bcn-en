@@ -3,6 +3,7 @@
 :experimental:
 :icons: font
 :page-partial:
+:page-layout: glossary
 :source-highlighter: highlightjs
 
 ifndef::env-site,env-github[]
