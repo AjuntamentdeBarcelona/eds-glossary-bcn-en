@@ -1,16 +1,10 @@
 [appendix]
 = Glossary
-:experimental:
-:icons: font
-:page-partial:
-:page-layout: glossary
-:source-highlighter: highlightjs
-
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
-
 include::{partialsdir}/README.adoc[tag=metadata]
+:page-layout: glossary
 
 This glossary includes a list of the key terms used in the documents that form the strategy towards technological sovereignty set out in the Digital Barcelona Plan 2017-2020.
 They have been defined using simple but clear vocabulary to ensure that everyone with access to the glossary can understand the meaning and significance of these terms regardless of their level of technical knowledge.
