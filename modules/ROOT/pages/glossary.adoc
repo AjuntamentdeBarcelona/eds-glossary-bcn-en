@@ -76,6 +76,12 @@ The sponsors, developers, and users should be able to maintain a constant pace i
 
 . At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly.
 
+[#citizens-digital-rights]
+Citizens’ Digital Rights ::
+
+Human rights that allow individuals to access, use, create, and publish digital media or to access and use computers, other electronic devices, or communications networks; the right and freedom to use all types of digital technology while using technology and having it used in an acceptable and appropriate manner.
+(http://internetrightsandprinciples.org/site/charter/ and https://en.wikipedia.org/wiki/Digital_rights) 
+
 [#collusion-between-companies]
 Collusion between companies ::
 
